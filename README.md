@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor de software com afinidade em JavaScript, Python, Java, HTML, CSS e SQL
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e técnico em Manutenção e Suporte em Informática pelo IFRS-Sertão. Buscando sempre aprimorar-me e conhecer novas tecnologias
-- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, Next js, React Native, Bootstrap, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
+- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, TypeScript, Next js, React Native, Bootstrap, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
 - 📕 Estudando NodeJs
 </br>
 
