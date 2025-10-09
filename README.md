@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor de software com afinidade em JavaScript, Python, Java, HTML, CSS e SQL
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e técnico em Manutenção e Suporte em Informática pelo IFRS-Sertão. Buscando sempre aprimorar-me e conhecer novas tecnologias
-- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, TypeScript, Next js, React Native, Bootstrap, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
+- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, TypeScript, Next js, React Native, Tailwind, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
 - 📕 Estudando NodeJs
 </br>
 
@@ -17,12 +17,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  align="center" alt="Renan-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Renan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Renan-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Renan-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 </div></br>
 
 ### 📫 Entre em contato comigo em:
