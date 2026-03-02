@@ -1,15 +1,16 @@
 ## Olá! Eu sou o Renan de Souza
 
-- 🔭 Desenvolvedor de software com afinidade em JavaScript, Python, Java, HTML, CSS e SQL
+- 🔭 Desenvolvedor de software com afinidade em JavaScript, Typescript, Node JS Python, Java, HTML, CSS e SQL
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e técnico em Manutenção e Suporte em Informática pelo IFRS-Sertão. Buscando sempre aprimorar-me e conhecer novas tecnologias
-- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, TypeScript, Next js, React Native, Tailwind, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
-- 📕 Estudando NodeJs
+- 🤔 Possuo conhecimento em tecnologias/frameworks como React Js, Next js, React Native, Tailwind, APIs Rest. Além disso, desenvolvi projetos utilizando banco de dados como Mysql, PostgreSQL, MongoDB e Firebase
+- 📕 Estudando NodeJs e padrões de projeto
 </br>
 
 ### 📈 GitHub Stats
 
-[![Renan de Souza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Renan1102\&show_icons=true\&theme=algolia&count_private=true)](https://github.com/Renan1102?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=algolia)](https://github.com/Renan1102?tab=repositories)
+[![Renan de Souza's GitHub stats-Light](https://github-readme-stats-eight-theta.vercel.app/api?username=Renan1102&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
+
 </br>
 
 ### 💻 Tecnologias utilizadas
