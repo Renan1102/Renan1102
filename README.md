@@ -27,8 +27,10 @@
 
 ### 📈 GitHub Stats
 
-[![Renan de Souza's GitHub stats-Light](https://github-readme-stats-eight-theta.vercel.app/api?username=Renan1102&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&&card_width=270)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Renan1102&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff" height="150" />
+</p>
 
 </br>
 
