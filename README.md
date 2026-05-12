@@ -6,14 +6,7 @@
 - 📕 Estudando NodeJs e padrões de projeto
 </br>
 
-### 📈 GitHub Stats
-
-[![Renan de Souza's GitHub stats-Light](https://github-readme-stats-eight-theta.vercel.app/api?username=Renan1102&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
-
-</br>
-
-### 💻 Tecnologias utilizadas
+### 💻 Tecnologias
 
 <div ><br>
   <img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -31,6 +24,15 @@
   <img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
   <img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 </div></br>
+
+### 📈 GitHub Stats
+
+[![Renan de Souza's GitHub stats-Light](https://github-readme-stats-eight-theta.vercel.app/api?username=Renan1102&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renan1102&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
+
+</br>
+
+
 
 ### 📫 Entre em contato comigo em:
 Sinta-se à vontade para entrar em contato comigo através de:
